@@ -1,5 +1,12 @@
 # USB_2025_FLEX
 
+## Cloning the Repository
+
+To clone this repository, execute the following command in your terminal:
+
+```
+git clone https://github.com/sdariza/USB_202520_Flex.git
+```
 ## Installing Flex and GCC
 
 To install **Flex** and **GCC**, execute the following commands in your terminal:
